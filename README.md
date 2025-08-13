@@ -10,3 +10,5 @@
 
 * Usando Parciais
 
+* Usando CSS nas parciais
+  
