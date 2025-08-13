@@ -7,3 +7,6 @@
 * Usando express
 
 // express fremework(pacotes pre prontos) de backend Node e React9fremework para frontend)
+
+* Usando Parciais
+
