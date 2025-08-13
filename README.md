@@ -1,1 +1,3 @@
 # blog-nodejs
+
+*Usando EJS 
