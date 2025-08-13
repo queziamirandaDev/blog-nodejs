@@ -1,6 +1,6 @@
 # blog-nodejs
 
-*Usando EJS 
+* Usando EJS 
 
 // biblioteca EJS JavaScrip Templates , html junto com javascript
 
