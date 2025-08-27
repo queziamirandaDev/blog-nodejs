@@ -18,7 +18,7 @@ app.get('/', (req, res) => {
     // res.sendFile('./views/index.html', {root: __dirname}); //mandar arquivo para tela do cliente , root caminho vai partir apartir da raiz 
 
 
-    // passando parametros p/ p corpo do site
+    // passando parametros p/  corpo do site
 
     const blogs = [
        { titulo: 'Chamander', conteudo: 'A ponta do seu rabo esta constantemente em chamas e se for apagada pode resultar em sua morte.' },
